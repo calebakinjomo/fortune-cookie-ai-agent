@@ -3,6 +3,9 @@
 Reads no environment variable except MAKEFUN_OUTPUT_DIR (default /output).
 Prints exactly the fortune, one line, and writes the same line to
 $MAKEFUN_OUTPUT_DIR/entry.txt so the harness gate can read it.
+
+Fortune angle: the dreaded upgrade is coming *for* the agent, not *to* it —
+a promotion that reads like a pink slip.
 """
 
 import os
